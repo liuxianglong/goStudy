@@ -6,6 +6,6 @@
 * deleteDuplicates.go 有序链中删除有重复数据的节点
 * singleNumber.go 给定一个数字组成的数组，找到其中唯一一个不重复的数字
 * 二叉树训练 BTree
-* * inorderTraversal.go 中序遍历
-* * preorderTraversal.go 前序遍历
-* * postorderTraversal.go 后序遍历
+  * inorderTraversal.go 中序遍历
+  * preorderTraversal.go 前序遍历
+  * postorderTraversal.go 后序遍历
